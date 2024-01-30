@@ -59,15 +59,12 @@
          <div>
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
-            <head><persName>MRS DALLOWAY</persName> IN BOND STREET</head>
+            <head><persName><persName type="fictional">MRS DALLOWAY</persName></persName> IN BOND STREET</head>
             <byline>BY <persName type="real">VIRGINIA WOOLF</persName></byline>
 
 
-            <p><persName>Mrs Dalloway</persName> said she would buy the gloves herself.</p>
-            <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
-               the unused hour was fresh as if issued to children on a beach. But there was
-               something solemn in the deliberate swing of the repeated strokes; something stirring
-               in the murmur of wheels and the shuffle of footsteps.</p>
+            <p><persName><persName type="fictional">Mrs Dalloway</persName></persName> said she would buy the gloves herself.</p>
+            <p><objectType>Big Ben was striking as she stepped out into the street. It was eleven o'clock and the unused hour was fresh as if issued to children on a beach. But there was something solemn in the deliberate swing of the repeated strokes; something stirring in the murmur of wheels and the shuffle of footsteps.</objectType></p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
                said about us than that we walk the streets of Westminster. Big Ben too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
